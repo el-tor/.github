@@ -10,7 +10,7 @@ are used for privately paying relays. El Tor not only helps with censorship resi
 Lightning and Bitcoin node communication. A higher bandwidth and more reliable Tor network can also lead to future services being launched as hidden services, 
 by default, instead of clearnet KYC'd servers. 
 
-Read the spec here https://github.com/el-tor/eltord/blob/master/spec/00_spec.md and technical details on paid circuits here https://github.com/el-tor/eltord/blob/master/spec/01_paid_circuits.md
+Read the spec here https://el-tor.github.io/eltord and technical details on paid circuits here https://github.com/el-tor/eltord/blob/master/spec/01_paid_circuits.md
 
 ### Projects
 
